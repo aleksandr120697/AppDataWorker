@@ -16,11 +16,11 @@ namespace AppDataWorker.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    id_apt = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    id_apt = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     is_active = table.Column<bool>(type: "bit", nullable: false),
                     is_point_issue = table.Column<bool>(type: "bit", nullable: false),
                     is_shipment = table.Column<bool>(type: "bit", nullable: false),
-                    name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    name = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     address = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     phone = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     longitude = table.Column<double>(type: "float", nullable: true),

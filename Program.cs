@@ -35,14 +35,17 @@ namespace AppDataWorker
             app.MapControllers();
 
 
+            #region Старт работы с БД
+            RenewDB renewDB = new RenewDB();
             Task.Run(() =>
             {
 
                 while (true)
                 {
-                    RenewDB.StartRenew();
+                    renewDB.StartRenew();
                 }
             });
+            #endregion
 
             app.Run();
             

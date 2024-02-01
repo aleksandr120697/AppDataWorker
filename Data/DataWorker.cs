@@ -17,12 +17,12 @@ namespace AppDataWorker.Data
             string filePath = Path.Combine(folderPath, "TransportData\\EvryDayRenew\\apteki.json");
             var json = File.ReadAllText(filePath);
 
-            JsonSerializerOptions options = new JsonSerializerOptions()
-            {
-                UnknownTypeHandling = JsonUnknownTypeHandling.JsonNode
-            };
+            //JsonSerializerOptions options = new JsonSerializerOptions()
+            //{
+            //    UnknownTypeHandling = JsonUnknownTypeHandling.JsonNode
+            //};
 
-            Apteka[]? resultJson = JsonSerializer.Deserialize<Apteka[]>(json,options);
+            Apteka[]? resultJson = JsonSerializer.Deserialize<Apteka[]>(json);
             //Сохраняем в БД
             List<Operating_mode>? operating_Mode;
             using (ApplicationDbContext db = new ApplicationDbContext())
@@ -31,12 +31,13 @@ namespace AppDataWorker.Data
                 {
                     Apteka parseModel;
                     //Конвертируем координаты
-                    double convert_longitudes;
-                    if(!double.TryParse(Convert.ToString(res.latitude_json as JsonNode), out convert_longitudes))
-                        convert_longitudes = 0;
-                    double convert_latitude;
-                    if (!double.TryParse(Convert.ToString(res.latitude_json as JsonNode), out convert_latitude))
-                        convert_latitude = 0;
+                    //var con1 = Convert.ToDouble(Convert.ToString((res.latitude_json as JsonNode).GetValue<double>().ToString()));
+                    //double convert_longitudes;
+                    //if(!double.TryParse(Convert.ToString(Convert.ToDouble((res.latitude_json as JsonNode).GetValue<object>().ToString())), out convert_longitudes))
+                    //    convert_longitudes = 0;
+                    //double convert_latitude;
+                    //if (!double.TryParse(Convert.ToString((res.longitude_json as JsonNode).GetValue<object>().ToString()), out convert_latitude))
+                    //    convert_latitude = 0;
 
                     //проверяем operating_modeJson на null 
                     if (res.operating_modeJson != null)
@@ -47,41 +48,54 @@ namespace AppDataWorker.Data
 
                         parseModel = new Apteka()
                         {
+                            id_apt = res.id_apt,
                             is_active = res.is_active,
                             is_point_issue = res.is_point_issue,
                             is_shipment = res.is_shipment,
                             name = res.name,
                             address = res.address,
                             phone = res.phone,
-                            longitude = convert_longitudes,
-                            latitude = convert_latitude,
+                            longitude = res.longitude,
+                            latitude = res.latitude,
                             schedule = res.schedule,
                             metro = res.metro,
                             hub = res.hub,
                             region = res.region,
                             operating_mode = operating_Mode // Указываем связь  Apteks с operating_mode
                         };
-                        db.Add(parseModel); //Создаем таблицу Apteka 
-                        db.operating_Modes.AddRange(operating_Mode);
+                        Apteka oldApteka = db.Apteks.Where(apteka => apteka.id_apt == parseModel.id_apt).FirstOrDefault();
+                        if (!oldApteka.Equals(parseModel))
+                        {
+                            db.Add(parseModel); //Создаем таблицу Apteka 
+                            db.operating_Modes.AddRange(operating_Mode);
+                            Console.WriteLine("Добавлена аптека " + res.name + ".");
+                        }
                     }
                     else
                     {
                         parseModel = new Apteka()
                         {
+                            id_apt = res.id_apt,
                             is_active = res.is_active,
                             is_point_issue = res.is_point_issue,
                             is_shipment = res.is_shipment,
                             name = res.name,
                             address = res.address,
                             phone = res.phone,
-                            longitude = convert_longitudes,
-                            latitude = convert_latitude,
+                            longitude = res.longitude,
+                            latitude = res.latitude,
                             schedule = res.schedule,
                             metro = res.metro,
                             hub = res.hub,
                             region = res.region,// Указываем связь  Apteks с operating_mode
                         };
-                        db.Add(parseModel); //Создаем таблицу Apteka 
+                        Apteka oldApteka = db.Apteks.Where(apteka => apteka.id_apt == parseModel.id_apt).FirstOrDefault();
+                        if(!oldApteka.Equals(parseModel))
+                        {
+                            db.Add(parseModel); //Создаем таблицу Apteka 
+                            Console.WriteLine("Добавлена аптека " + res.name + " без режима работы");
+                        }
+                        
                     }
                 }
                 db.SaveChanges();

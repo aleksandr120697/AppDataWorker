@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AppDataWorker.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240201131816_Initial")]
+    [Migration("20240201142045_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -58,7 +58,6 @@ namespace AppDataWorker.Migrations
                         .HasColumnType("bit");
 
                     b.Property<string>("id_apt")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)")
                         .HasAnnotation("Relational:JsonPropertyName", "id");
 
@@ -81,7 +80,6 @@ namespace AppDataWorker.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("phone")

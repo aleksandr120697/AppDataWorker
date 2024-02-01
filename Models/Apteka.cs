@@ -14,20 +14,20 @@ namespace AppDataWorker.Models
         [JsonIgnore]
         public int Id { get; set; }
         [JsonPropertyName("id")]
-        public string id_apt { get; set; }
+        public string? id_apt { get; set; }
         public bool is_active { get; set; }
         public bool is_point_issue { get; set; }
         public bool is_shipment { get; set; }
-        public string name { get; set; }
+        public string? name { get; set; }
         public string? address { get; set; }
         public string? phone { get; set; }
-        [NotMapped,JsonPropertyName("longitude")]
-        public object? longitude_json { get; set; }
-        [JsonIgnore]
+        //[NotMapped,JsonPropertyName("longitude")]
+        //public object? longitude_json { get; set; }
+        [JsonConverter(typeof(DoubleConverter))]
         public double? longitude { get; set; }
-        [NotMapped,JsonPropertyName("latitude")]
-        public object? latitude_json { get; set; }
-        [JsonIgnore]
+        //[NotMapped,JsonPropertyName("latitude")]
+        //public object? latitude_json { get; set; }
+        [JsonConverter(typeof(DoubleConverter))]
         public double? latitude { get; set; }
         public string? schedule { get; set; }
         public string? metro { get; set; }
@@ -46,6 +46,22 @@ namespace AppDataWorker.Models
         public string? Day { get; set; }
         public string? Time { get; set; }
     }
-    
+    public class DoubleConverter : JsonConverter<double?>
+    {
+        public override double? Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options)
+        {
+            // Если это числовое значение, то пробуем десериализовать как double
+            if (reader.TokenType == JsonTokenType.Number && reader.TryGetDouble(out double result))
+                return result;
+
+            // В противном случае возвращаем значение по null
+            return null;
+        }
+        public override void Write(Utf8JsonWriter writer, double? value, JsonSerializerOptions options)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
 
 }

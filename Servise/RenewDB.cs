@@ -5,17 +5,16 @@ namespace AppDataWorker.Servise
 {
     public class RenewDB
     {
-        
-        public static void StartRenew()
+        public bool update_now = false;
+        public void StartRenew()
         {
-            Timer timer = null;
-            timer = new Timer(callback, null, 0, 300000);
-        }
-
-        private static void callback(Object state)
-        {
-            Console.WriteLine("Обновление запустилось");
-            DataWorker.UpdateApteks();
+            if(update_now == false)
+            {
+                Console.WriteLine("Обновление запустилось");
+                DataWorker.UpdateApteks();
+                update_now = true;
+            }
+            
         }
 
 
