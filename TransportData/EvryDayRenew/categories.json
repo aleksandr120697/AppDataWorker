@@ -1,0 +1,3482 @@
+[
+{
+"id": "30001",
+"name": "Аллергия - Таблетки",
+"parent_id": "100001",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30056",
+"name": "Аллергия - Мази, гели",
+"parent_id": "100001",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30110",
+"name": "Аллергия - Капли в нос",
+"parent_id": "100001",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30162",
+"name": "Аллергия - Глазные капли",
+"parent_id": "100001",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30218",
+"name": "Аллергия детская - Капли, сиропы",
+"parent_id": "100001",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100001",
+"name": "АЛЛЕРГИЯ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30194",
+"name": "Льняное масло",
+"parent_id": "20055",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30267",
+"name": "Облепиховое масло - Внутрь",
+"parent_id": "20055",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30292",
+"name": "Прочие масла",
+"parent_id": "20055",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20055",
+"name": "МАСЛА ПИЩЕВЫЕ",
+"parent_id": "100002",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30002",
+"name": "Витамины для сердца и сосудов",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30003",
+"name": "Витамины для взрослых",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30006",
+"name": "Витамины для детей и подростков",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30013",
+"name": "Витамины для беременных",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30015",
+"name": "Витамины для мужчин",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30036",
+"name": "Витамины для женщин",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30038",
+"name": "Витамины для глаз",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30043",
+"name": "Витамины железа",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30086",
+"name": "Витамины - А,Е",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30113",
+"name": "Витамины при диабете",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30114",
+"name": "Витамины - Магний",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30115",
+"name": "Витамины - Омега",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30150",
+"name": "Витамин С",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30155",
+"name": "Витамины - Кальций",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30212",
+"name": "Витамины - Группа В",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30318",
+"name": "Витамин D3",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30333",
+"name": "Витамины с Янтарной кислотой",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30334",
+"name": "Витамины - Карнитин",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30335",
+"name": "Витамины - Мумие",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30336",
+"name": "Дрожжи пивные",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30337",
+"name": "Витамин К",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30338",
+"name": "Витамины с Гиалуроновой кислотой",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30339",
+"name": "Барсучий жир",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30340",
+"name": "Добавки общеукрепляющие",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30357",
+"name": "Витамины - Кальция глюконат таблетки",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30367",
+"name": "Гомеопатические средства",
+"parent_id": "100002",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100002",
+"name": "ВИТАМИНЫ и БАДы",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30004",
+"name": "Кашель влажный - Сиропы",
+"parent_id": "20003",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30029",
+"name": "Кашель влажный - Таблетки",
+"parent_id": "20003",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30030",
+"name": "Растирки при простуде",
+"parent_id": "20003",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30033",
+"name": "Кашель сухой - Таблетки",
+"parent_id": "20003",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30039",
+"name": "Кашель сухой - Сиропы",
+"parent_id": "20003",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30152",
+"name": "Пастилки от кашля",
+"parent_id": "20003",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30235",
+"name": "Горчичники, наклейки на одежду",
+"parent_id": "20003",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20003",
+"name": "КАШЕЛЬ",
+"parent_id": "100003",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30019",
+"name": "Противовирусные - Взрослые",
+"parent_id": "20013",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30037",
+"name": "Противовирусные - Детские",
+"parent_id": "20013",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30098",
+"name": "Лечение герпеса - Мази/гели",
+"parent_id": "20013",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30107",
+"name": "Противовирусные - Свечи",
+"parent_id": "20013",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30172",
+"name": "Лечение герпеса - Таблетки",
+"parent_id": "20013",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30231",
+"name": "Противовирусные - Назальные капли, спреи, мази",
+"parent_id": "20013",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20013",
+"name": "ПРОТИВОВИРУСНЫЕ",
+"parent_id": "100003",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30026",
+"name": "Капли взрослые от насморка",
+"parent_id": "20017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30057",
+"name": "Спреи взрослые от насморка",
+"parent_id": "20017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30090",
+"name": "Солевые детские",
+"parent_id": "20017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30091",
+"name": "Солевые взрослые",
+"parent_id": "20017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30109",
+"name": "Капли детские от насморка",
+"parent_id": "20017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30251",
+"name": "Аспираторы",
+"parent_id": "20017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20017",
+"name": "НАСМОРК",
+"parent_id": "100003",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30135",
+"name": "Симптоматические таблетки",
+"parent_id": "20018",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30332",
+"name": "Симптоматические порошки",
+"parent_id": "20018",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20018",
+"name": "СНЯТИЕ СИМПТОМОВ ПРОСТУДЫ",
+"parent_id": "100003",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30042",
+"name": "Общетонизирующие - Таблетки",
+"parent_id": "20024",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30106",
+"name": "Общетонизирующие - Растворы",
+"parent_id": "20024",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30116",
+"name": "Иммуностимулирующее",
+"parent_id": "20024",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20024",
+"name": "ОБЩЕТОНИЗИРУЮЩИЕ И ИММУНОСТИМУЛИРУЮЩИЕ",
+"parent_id": "100003",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30111",
+"name": "Пастилки для горла",
+"parent_id": "20039",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30210",
+"name": "Полоскание горла",
+"parent_id": "20039",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30211",
+"name": "Спреи от ангины",
+"parent_id": "20039",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20039",
+"name": "АНГИНА",
+"parent_id": "100003",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "100003",
+"name": "ГРИПП, ПРОСТУДА, ОРЗ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30005",
+"name": "Ферменты",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30012",
+"name": "Регуляторы моторики ЖКТ",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30020",
+"name": "Вздутие, колики",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30027",
+"name": "Противопаразитарные",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30093",
+"name": "Пробиотики и пребиотики",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30120",
+"name": "Противодиарейные",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30146",
+"name": "Спазмолитики",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30177",
+"name": "Тошнота, рвота",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30343",
+"name": "Язва/гастрит - Висмута трикалия дицитрат",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30344",
+"name": "Язва/гастрит - Месалазин",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30345",
+"name": "Язва/гастрит - Омепразол",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30346",
+"name": "Язва/гастрит - Пантопразол",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30347",
+"name": "Язва/гастрит - Прочее",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30348",
+"name": "Язва/гастрит - Рабепразол",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30349",
+"name": "Язва/гастрит - Ранитидин",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30350",
+"name": "Язва/гастрит - Ребамипид",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30351",
+"name": "Язва/гастрит - Фамотидин",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30352",
+"name": "Язва/гастрит - Эзомепразол",
+"parent_id": "20004",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20004",
+"name": "ПИЩЕВАРЕНИЕ",
+"parent_id": "100004",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30011",
+"name": "Гепатопротекторы - восстановление",
+"parent_id": "20008",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30175",
+"name": "Гепатопротекторы и Желчегонные",
+"parent_id": "20008",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30192",
+"name": "Гепатопротекторы - метаболиты",
+"parent_id": "20008",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20008",
+"name": "ГЕПАТОПРОТЕКТОРЫ",
+"parent_id": "100004",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30014",
+"name": "Слабительные внутрь - Сусп, капли",
+"parent_id": "20009",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30097",
+"name": "Слабительные внутрь - Таблетки",
+"parent_id": "20009",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30304",
+"name": "Слабительные наружные - Свечи",
+"parent_id": "20009",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20009",
+"name": "СЛАБИТЕЛЬНЫЕ СРЕДСТВА",
+"parent_id": "100004",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30035",
+"name": "Уголь активированный",
+"parent_id": "20021",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30045",
+"name": "Сорбенты - Таблетки",
+"parent_id": "20021",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30084",
+"name": "Сорбенты Жидкие",
+"parent_id": "20021",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20021",
+"name": "СОРБЕНТЫ",
+"parent_id": "100004",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30040",
+"name": "Изжога таблетки",
+"parent_id": "20022",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30165",
+"name": "Изжога суспензии",
+"parent_id": "20022",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20022",
+"name": "ИЗЖОГА",
+"parent_id": "100004",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "100004",
+"name": "ЖЕЛУДОК, КИШЕЧНИК И ПЕЧЕНЬ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30007",
+"name": "Противовоспалительные - Мази, гели",
+"parent_id": "100005",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30034",
+"name": "Наружные хондропротекторы",
+"parent_id": "100005",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30048",
+"name": "Хондропротекторы таблетки",
+"parent_id": "100005",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30355",
+"name": "Противовоспатительные - Растворы",
+"parent_id": "100005",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100005",
+"name": "СУСТАВЫ И МЫШЦЫ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30032",
+"name": "Лечение грибка - Таблетки",
+"parent_id": "20020",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30122",
+"name": "Лечение грибка - Растворы",
+"parent_id": "20020",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30362",
+"name": "Лечение грибка - Кремы/ Мази",
+"parent_id": "20020",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30363",
+"name": "Лечение грибка - Лаки",
+"parent_id": "20020",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20020",
+"name": "ПРОТИВОГРИБКОВЫЕ СРЕДСТВА",
+"parent_id": "100006",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30008",
+"name": "Лечение педикулеза и чесотки",
+"parent_id": "100006",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30009",
+"name": "Средства от Псориаза",
+"parent_id": "100006",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30058",
+"name": "Прыщи, акне, угри",
+"parent_id": "100006",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30062",
+"name": "Антисептики и Антибактериальные наружные",
+"parent_id": "100006",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30123",
+"name": "Атопический дерматит",
+"parent_id": "100006",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30141",
+"name": "Гормональные мази",
+"parent_id": "100006",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30341",
+"name": "Проблемная кожа - Внутрь",
+"parent_id": "100006",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30387",
+"name": "Ранозаживляющие - прочие",
+"parent_id": "100006",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30388",
+"name": "Ранозаживляющие - Пантенолы",
+"parent_id": "100006",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100006",
+"name": "ДЕРМАТОЛОГИЯ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30024",
+"name": "Успокаивающие - Таблетки",
+"parent_id": "100007",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30060",
+"name": "Мозговое кровообращение",
+"parent_id": "100007",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30064",
+"name": "Противомигренозные",
+"parent_id": "100007",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30207",
+"name": "Ноотропы",
+"parent_id": "100007",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30229",
+"name": "Деменция+Альцгеймер",
+"parent_id": "100007",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30247",
+"name": "Антидепресанты",
+"parent_id": "100007",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30252",
+"name": "Противопаркинсонические",
+"parent_id": "100007",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30257",
+"name": "Транквилизатор",
+"parent_id": "100007",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30317",
+"name": "Снотворные - Мелатонин",
+"parent_id": "100007",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30353",
+"name": "Успокаивающие растительные - Таблетки",
+"parent_id": "100007",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30354",
+"name": "Успокаивающие растительные - Растворы",
+"parent_id": "100007",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100007",
+"name": "НЕВРОЛОГИЯ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30016",
+"name": "Глазные противовоспалительные антибактериальные",
+"parent_id": "20010",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30126",
+"name": "Увлажняющие капли",
+"parent_id": "20010",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30186",
+"name": "Глазные Обезболивающие",
+"parent_id": "20010",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30189",
+"name": "Глаукома",
+"parent_id": "20010",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30195",
+"name": "Катаракта",
+"parent_id": "20010",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30291",
+"name": "Диагностика болезней глаз",
+"parent_id": "20010",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20010",
+"name": "ОФТАЛЬМОЛОГИЯ",
+"parent_id": "100008",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30079",
+"name": "Растворы гигиенические для ушей, свечи (серные пробки)",
+"parent_id": "20063",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30095",
+"name": "Капли ушные (противовоспалительные обезболивающие)",
+"parent_id": "20063",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20063",
+"name": "ПРЕПАРАТЫ ДЛЯ УШЕЙ",
+"parent_id": "100008",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "100008",
+"name": "ЛЕЧЕНИЕ ОРГАНОВ СЛУХА И ЗРЕНИЯ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30017",
+"name": "Средства для похудения - Внутрь",
+"parent_id": "100009",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30077",
+"name": "Средства для похудения - Наружные",
+"parent_id": "100009",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30121",
+"name": "Чай, кофе, компот",
+"parent_id": "100009",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100009",
+"name": "ПОХУДЕНИЕ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30018",
+"name": "Ампулы - ЖКТ",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30052",
+"name": "Ампулы - Прочее",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30061",
+"name": "Ампулы - Стимуляторы репарации тканей",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30099",
+"name": "Ампулы - НПВС",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30100",
+"name": "Ампулы - Ноотропы",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30101",
+"name": "Ампулы - Витамины",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30102",
+"name": "Ампулы - Нарушение сердечного ритма",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30103",
+"name": "Ампулы - Кровоостанавливающие",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30104",
+"name": "Ампулы - Стимуляторы дыхания",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30119",
+"name": "Ампулы - Аллергия",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30167",
+"name": "Ампулы - Анестетики",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30199",
+"name": "Ампулы - Спазмолитики",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30200",
+"name": "Ампулы - Антибактериальные",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30201",
+"name": "Ампулы - Противовирусные - Иммуномодуляторы",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30202",
+"name": "Ампулы - Парентеральное Питание",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30203",
+"name": "Ампулы - Противоопухолевые",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30204",
+"name": "Ампулы - Снижение давления",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30226",
+"name": "Ампулы - Гепатопротекторы",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30232",
+"name": "Ампулы - Антикоагулянты",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30244",
+"name": "Вакцины",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30246",
+"name": "Ампулы - Нейролептики",
+"parent_id": "20012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20012",
+"name": "АМПУЛЫ",
+"parent_id": "100010",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30050",
+"name": "Ингибиторы АПФ",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30142",
+"name": "Лечение заболеваний сердца",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30148",
+"name": "Антигипертензивные",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30180",
+"name": "Диуретики",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30181",
+"name": "Ингибиторы АПФ_Лизиноприл",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30182",
+"name": "Ингибиторы АПФ_Каптоприл",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30183",
+"name": "Ренин-ангиотензивная система",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30184",
+"name": "Ингибиторы АПФ_Эналаприлы",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30185",
+"name": "В-блокаторы",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30190",
+"name": "Антиагреганты + Антикоагулянты",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30193",
+"name": "Антиагреганты - Клопидогрел",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30228",
+"name": "Блокаторы кальц.каналов",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30280",
+"name": "Антиагреганты - Ацетилсалициловая кислота",
+"parent_id": "20026",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20026",
+"name": "СЕРДЕЧНЫЕ",
+"parent_id": "100010",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30069",
+"name": "Снижение холестерина - Розувастатин",
+"parent_id": "20032",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30173",
+"name": "Снижение холестерина - Аторвастатин",
+"parent_id": "20032",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30249",
+"name": "Снижение холестерина - Симвастатин",
+"parent_id": "20032",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20032",
+"name": "СНИЖЕНИЕ ХОЛЕСТЕРИНА",
+"parent_id": "100010",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30085",
+"name": "Антибиотики - Азитромицин - Таблетки, капсулы",
+"parent_id": "20036",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30087",
+"name": "Антибиотики - Амоксициллин+Клавулановая кислота",
+"parent_id": "20036",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30088",
+"name": "Антибиотики детские - Порошки, суспензии",
+"parent_id": "20036",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30089",
+"name": "Антибиотики - Амоксициллин - Таблетки, капсулы",
+"parent_id": "20036",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30144",
+"name": "Антибиотики широкого спектра",
+"parent_id": "20036",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30221",
+"name": "Противомикробные средства",
+"parent_id": "20036",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30282",
+"name": "Антибиотики - Левофлоксацин - Таблетки, капсулы",
+"parent_id": "20036",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30283",
+"name": "Антибиотики - Кларитромицин - Таблетки, капсулы",
+"parent_id": "20036",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30284",
+"name": "Антибиотики - Ципрофлоксацин - Таблетки, капсулы",
+"parent_id": "20036",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30285",
+"name": "Антибиотики - Доксициклин - Таблетки, капсулы",
+"parent_id": "20036",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30286",
+"name": "Антибиотики - Хлорамфеникол - Таблетки, капсулы",
+"parent_id": "20036",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30287",
+"name": "Антибиотики - Офлоксацин - Таблетки, капсулы",
+"parent_id": "20036",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20036",
+"name": "АНТИБИОТИКИ",
+"parent_id": "100010",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30137",
+"name": "Водно-электролитный баланс, растворы",
+"parent_id": "20047",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30145",
+"name": "Противоопухолевые",
+"parent_id": "20047",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30159",
+"name": "Эпилепсия",
+"parent_id": "20047",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30163",
+"name": "Астма, хрон.бронхит",
+"parent_id": "20047",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30206",
+"name": "Антипсихотические, нейролептики",
+"parent_id": "20047",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30216",
+"name": "Остеопороз",
+"parent_id": "20047",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30240",
+"name": "Гемостатики",
+"parent_id": "20047",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30243",
+"name": "Местнораздражающие",
+"parent_id": "20047",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30253",
+"name": "Иммунодепрессанты",
+"parent_id": "20047",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30379",
+"name": "Диагностические средства",
+"parent_id": "20047",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20047",
+"name": "ПРОЧИЕ",
+"parent_id": "100010",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30127",
+"name": "Лечение сахарного диабета",
+"parent_id": "20058",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30233",
+"name": "ГКС внутрь",
+"parent_id": "20058",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30259",
+"name": "Щитовидная железа",
+"parent_id": "20058",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20058",
+"name": "ГОРМОНАЛЬНЫЕ ПРЕПАРАТЫ",
+"parent_id": "100010",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30390",
+"name": "Антианемические препараты",
+"parent_id": "100010",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100010",
+"name": "РЕЦЕПТУРНЫЕ ТОВАРЫ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30021",
+"name": "Шампуни",
+"parent_id": "20014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30094",
+"name": "Ватные диски",
+"parent_id": "20014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30096",
+"name": "Ватные палочки",
+"parent_id": "20014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30215",
+"name": "Влажные салфетки для рук",
+"parent_id": "20014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30227",
+"name": "Бумажные платочки",
+"parent_id": "20014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30230",
+"name": "Мыло",
+"parent_id": "20014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30278",
+"name": "Туалетная бумага",
+"parent_id": "20014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30322",
+"name": "Инструменты красоты",
+"parent_id": "20014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20014",
+"name": "БАЗОВЫЙ УХОД",
+"parent_id": "100011",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30125",
+"name": "Зубные щетки детские",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30130",
+"name": "Для зубных протезов",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30131",
+"name": "Зубные пасты",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30132",
+"name": "Зубные щетки для взрослых",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30157",
+"name": "Зубные пасты детские",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30179",
+"name": "Ополаскиватели",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30205",
+"name": "Ершики, массажеры для зубов",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30213",
+"name": "Освежители полости рта",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30222",
+"name": "Стоматология - воспаление и боль",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30237",
+"name": "Зубной порошок",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30288",
+"name": "Зубные нити",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30321",
+"name": "Прорезывание зубов",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30325",
+"name": "Укрепление эмали",
+"parent_id": "20043",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20043",
+"name": "УХОД ЗА ПОЛОСТЬЮ РТА",
+"parent_id": "100011",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30066",
+"name": "Тампоны",
+"parent_id": "20044",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30129",
+"name": "Прокладки - Урологические",
+"parent_id": "20044",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30245",
+"name": "Прокладки - Гигиенические",
+"parent_id": "20044",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30268",
+"name": "Прокладки - Ежедневные",
+"parent_id": "20044",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20044",
+"name": "ПРОКЛАДКИ И ТАМПОНЫ",
+"parent_id": "100011",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30224",
+"name": "Средства ухода за лежачими больными",
+"parent_id": "20056",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30271",
+"name": "Подгузники - Взрослые",
+"parent_id": "20056",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30272",
+"name": "Трусы",
+"parent_id": "20056",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30277",
+"name": "Впитывающие пеленки",
+"parent_id": "20056",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20056",
+"name": "УХОД ЗА ЛЕЖАЧИМИ БОЛЬНЫМИ",
+"parent_id": "100011",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30158",
+"name": "Гель, мыло для интимной гигиены",
+"parent_id": "20066",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30250",
+"name": "Влажные салфетки для интимной гигиены",
+"parent_id": "20066",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20066",
+"name": "ГИГИЕНА ЖЕНСКАЯ",
+"parent_id": "100011",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "100011",
+"name": "ГИГИЕНА",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30022",
+"name": "Простатит - Таблетки",
+"parent_id": "100012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30023",
+"name": "Простатит - Свечи",
+"parent_id": "100012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30025",
+"name": "Регуляторы потенции",
+"parent_id": "100012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30134",
+"name": "Лечение почек, мочевыводящих путей",
+"parent_id": "100012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30361",
+"name": "Подагра",
+"parent_id": "100012",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100012",
+"name": "УРОЛОГИЯ И НЕФРОЛОГИЯ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30031",
+"name": "Венотоники мази, гели",
+"parent_id": "100013",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30065",
+"name": "Венотонизирующие таблетки",
+"parent_id": "100013",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30266",
+"name": "Противогеморроидальные средства",
+"parent_id": "100013",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30356",
+"name": "Венотонизирующие суспензи, растворы",
+"parent_id": "100013",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100013",
+"name": "ЗАБОЛЕВАНИЯ ВЕН",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30041",
+"name": "Комбинированные препараты от боли, воспаления",
+"parent_id": "100014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30046",
+"name": "Обезбаливающие - Пластыри, спреи",
+"parent_id": "100014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30051",
+"name": "НПВС - Таблетки",
+"parent_id": "100014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30138",
+"name": "Анальгетики",
+"parent_id": "100014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30154",
+"name": "Пластыри перцовые",
+"parent_id": "100014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30174",
+"name": "Анальгетики - Сиропы детские",
+"parent_id": "100014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30220",
+"name": "Анальгетики - свечи детские",
+"parent_id": "100014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30239",
+"name": "НПВС - Свечи",
+"parent_id": "100014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30360",
+"name": "НПВС - Порошки",
+"parent_id": "100014",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100014",
+"name": "БОЛЬ И ТЕМПЕРАТУРА",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30049",
+"name": "Лейкопластыри - Катушки",
+"parent_id": "20025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30070",
+"name": "Лейкопластыри - Наборы",
+"parent_id": "20025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30071",
+"name": "Бинты",
+"parent_id": "20025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30075",
+"name": "Салфетки стерильные, спиртовые",
+"parent_id": "20025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30078",
+"name": "Вата",
+"parent_id": "20025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30196",
+"name": "Марля",
+"parent_id": "20025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30261",
+"name": "Маски медицинские",
+"parent_id": "20025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30294",
+"name": "Повязки",
+"parent_id": "20025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20025",
+"name": "ПЕРЕВЯЗКА",
+"parent_id": "100015",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30140",
+"name": "Пакеты",
+"parent_id": "20048",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20048",
+"name": "УПАКОВКА",
+"parent_id": "100015",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30080",
+"name": "Шприцы, системы, иглы",
+"parent_id": "20069",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30083",
+"name": "Перчатки, напальчники",
+"parent_id": "20069",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30176",
+"name": "Прочие ИМН",
+"parent_id": "20069",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30241",
+"name": "Аптечки",
+"parent_id": "20069",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30254",
+"name": "Бахилы, шапочки",
+"parent_id": "20069",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30260",
+"name": "Спринцовки",
+"parent_id": "20069",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30263",
+"name": "Контейнеры, моче/калоприемники",
+"parent_id": "20069",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30265",
+"name": "Бинты эласт, мартенса, кинезио",
+"parent_id": "20069",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30293",
+"name": "Мозольные пластыри",
+"parent_id": "20069",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30301",
+"name": "Беруши",
+"parent_id": "20069",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20069",
+"name": "МЕД. ИЗДЕЛИЯ",
+"parent_id": "100015",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "100015",
+"name": "ПЕРЕВЯЗКА И МЕД.ИЗДЕЛИЯ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30053",
+"name": "Бальзамы, маски для волос",
+"parent_id": "20027",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30225",
+"name": "Спреи для роста волос",
+"parent_id": "20027",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30270",
+"name": "Масла для волос",
+"parent_id": "20027",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30380",
+"name": "Краски и хна",
+"parent_id": "20027",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30382",
+"name": "Средства для укладки",
+"parent_id": "20027",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20027",
+"name": "УХОД ЗА ВОЛОСАМИ",
+"parent_id": "100016",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30055",
+"name": "Косметика Виши",
+"parent_id": "20028",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30063",
+"name": "Косметика Кора",
+"parent_id": "20028",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30117",
+"name": "Косметика Ля Рош Позе",
+"parent_id": "20028",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30156",
+"name": "Косметика Либридерм",
+"parent_id": "20028",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30171",
+"name": "Косметика Биодерма",
+"parent_id": "20028",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30223",
+"name": "Косметика Авен",
+"parent_id": "20028",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30312",
+"name": "Косметика Скинкод",
+"parent_id": "20028",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30378",
+"name": "Косметика Урьяж",
+"parent_id": "20028",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30385",
+"name": "Косметика Дермедик",
+"parent_id": "20028",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20028",
+"name": "ИМПОРТНАЯ КОСМЕТИКА",
+"parent_id": "100016",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30092",
+"name": "Помады, бальзамы для губ",
+"parent_id": "20037",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30139",
+"name": "Уход за лицом - Очищение",
+"parent_id": "20037",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30255",
+"name": "Крем для лица",
+"parent_id": "20037",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30269",
+"name": "Маски и патчи для лица",
+"parent_id": "20037",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30302",
+"name": "Уход за бровями и ресницами",
+"parent_id": "20037",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20037",
+"name": "УХОД ЗА ЛИЦОМ",
+"parent_id": "100016",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30151",
+"name": "Лаки для ногтей",
+"parent_id": "20050",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30365",
+"name": "Кремы и масла для рук",
+"parent_id": "20050",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20050",
+"name": "УХОД ЗА РУКАМИ",
+"parent_id": "100016",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30072",
+"name": "Гели для душа",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30108",
+"name": "Косметика - Прочее",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30128",
+"name": "Парафармацевтика",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30198",
+"name": "Кремы для тела",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30208",
+"name": "Пена/Соль для ванн",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30234",
+"name": "Скрабы для тела",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30307",
+"name": "Лосьоны, масла, маски",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30369",
+"name": "Удаление волос",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30370",
+"name": "Дезодоранты, Антиперсперанты",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30371",
+"name": "Парфюмерия",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30383",
+"name": "Всё для массажа - масла",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30384",
+"name": "Всё для массажа - массажеры",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30389",
+"name": "Дезодорирующие средства для ног",
+"parent_id": "20059",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20059",
+"name": "УХОД ЗА ТЕЛОМ",
+"parent_id": "100016",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30275",
+"name": "Маски для ног",
+"parent_id": "20061",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30364",
+"name": "Кремы для ног",
+"parent_id": "20061",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20061",
+"name": "УХОД ЗА НОГАМИ",
+"parent_id": "100016",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "100016",
+"name": "КОСМЕТИКА",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30059",
+"name": "Сладости - Аскорбинка",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30074",
+"name": "Сладости - Жевательные конфеты, Мармелад",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30188",
+"name": "Минеральная вода",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30236",
+"name": "Сладости - Леденцы, пастилки",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30238",
+"name": "Сиропы, кисель",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30262",
+"name": "Батончики, Мюсли",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30290",
+"name": "Сладости - Гематоген",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30297",
+"name": "Натуретто/Натурино",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30298",
+"name": "Отруби",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30299",
+"name": "Заменитель сахара",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30303",
+"name": "Сладости прочие",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30306",
+"name": "Сладости - Мед, варенье, урбеч",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30308",
+"name": "Сладости - Шоколад",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30309",
+"name": "Фрукты/Овощи",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30310",
+"name": "Напитки",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30381",
+"name": "Специализированное питание",
+"parent_id": "100017",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100017",
+"name": "ПРОДУКТЫ ПИТАНИЯ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30067",
+"name": "Средства от Комаров",
+"parent_id": "100018",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30068",
+"name": "Солнцезащитные средства",
+"parent_id": "100018",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30214",
+"name": "От укачивания",
+"parent_id": "100018",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30264",
+"name": "Антисептики для рук",
+"parent_id": "100018",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30274",
+"name": "Подарочные наборы",
+"parent_id": "100018",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100018",
+"name": "СЕЗОННЫЕ ТОВАРЫ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30073",
+"name": "Эфирные масла, аромалампы",
+"parent_id": "100019",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30168",
+"name": "Косметические масла",
+"parent_id": "100019",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100019",
+"name": "АРОМАТЕРАПИЯ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30076",
+"name": "Каши, смеси, пюре",
+"parent_id": "20034",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30105",
+"name": "Соки, чаи",
+"parent_id": "20034",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20034",
+"name": "ДЕТСКОЕ ПИТАНИЕ",
+"parent_id": "100020",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30124",
+"name": "Детская посуда",
+"parent_id": "20042",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30242",
+"name": "Влажные салфетки детские",
+"parent_id": "20042",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30281",
+"name": "Подгузники - Детские",
+"parent_id": "20042",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30316",
+"name": "Детское питание",
+"parent_id": "20042",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30368",
+"name": "Детские игрушки",
+"parent_id": "20042",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20042",
+"name": "ДЕТСКИЕ ТОВАРЫ",
+"parent_id": "100020",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30136",
+"name": "Косметика - Детская",
+"parent_id": "20046",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30276",
+"name": "Клеенки детские",
+"parent_id": "20046",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20046",
+"name": "УХОД ДЕТСКИЙ",
+"parent_id": "100020",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30219",
+"name": "Чаи для улучшения лактации",
+"parent_id": "20060",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30248",
+"name": "Тесты на беременность",
+"parent_id": "20060",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30256",
+"name": "Прокладки - На грудь",
+"parent_id": "20060",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30273",
+"name": "Тесты на овуляцию",
+"parent_id": "20060",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30372",
+"name": "Уход за кожей мамы",
+"parent_id": "20060",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20060",
+"name": "ТОВАРЫ ДЛЯ МАТЕРИ",
+"parent_id": "100020",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "100020",
+"name": "МАМА И МАЛЫШ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30147",
+"name": "Контрацепция экстренная",
+"parent_id": "20067",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30358",
+"name": "Контрацепция плановая",
+"parent_id": "20067",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30359",
+"name": "Контрацепция ВМС",
+"parent_id": "20067",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20067",
+"name": "ВМС И ГОРМОНАЛЬНАЯ КОНТРАЦЕПЦИЯ",
+"parent_id": "100021",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30082",
+"name": "Молочница - Свечи",
+"parent_id": "20068",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30170",
+"name": "Микрофлора вагинальная",
+"parent_id": "20068",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "20068",
+"name": "ГИНЕКОЛОГИЯ",
+"parent_id": "100021",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30143",
+"name": "Прочее",
+"parent_id": "100021",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30164",
+"name": "Мастопатия",
+"parent_id": "100021",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30187",
+"name": "Климакс",
+"parent_id": "100021",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100021",
+"name": "ЖЕНСКОЕ ЗДОРОВЬЕ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30118",
+"name": "Фиточаи",
+"parent_id": "100022",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30169",
+"name": "Травы - Россыпь",
+"parent_id": "100022",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30258",
+"name": "Травы - Фильтр-пакеты",
+"parent_id": "100022",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30279",
+"name": "Травы - Сборы",
+"parent_id": "100022",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100022",
+"name": "ТРАВЫ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30133",
+"name": "Растворы для линз",
+"parent_id": "100023",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30166",
+"name": "Очки, линзы, оправы",
+"parent_id": "100023",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100023",
+"name": "ОПТИКА",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30149",
+"name": "Трикотаж, фиксаторы, корректоры",
+"parent_id": "100024",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30178",
+"name": "Прочая ортопедия",
+"parent_id": "100024",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100024",
+"name": "ОРТОПЕДИЯ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30161",
+"name": "Глюкометры",
+"parent_id": "100025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30197",
+"name": "Тонометры автоматические",
+"parent_id": "100025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30209",
+"name": "Прочая мед.техн",
+"parent_id": "100025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30295",
+"name": "Тест-полоски",
+"parent_id": "100025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30296",
+"name": "Ингаляторы",
+"parent_id": "100025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30300",
+"name": "Термометры",
+"parent_id": "100025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30313",
+"name": "Мед.техника",
+"parent_id": "100025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30374",
+"name": "Запасные части для тонометров",
+"parent_id": "100025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30375",
+"name": "Тонометры полуавтоматические",
+"parent_id": "100025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30376",
+"name": "Тонометры механические",
+"parent_id": "100025",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100025",
+"name": "МЕД.ТЕХНИКА",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30010",
+"name": "Никотиновая зависимость",
+"parent_id": "100031",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30081",
+"name": "Алкогольная зависимость",
+"parent_id": "100031",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30373",
+"name": "Диагностические тесты",
+"parent_id": "100031",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100031",
+"name": "ВРЕДНЫЕ ПРИВЫЧКИ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30191",
+"name": "Презервативы",
+"parent_id": "100033",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "30289",
+"name": "Смазки",
+"parent_id": "100033",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100033",
+"name": "ИНТИМНЫЕ ОТНОШЕНИЯ",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30386",
+"name": "Промо",
+"parent_id": "100034",
+"is_last": true,
+"image": "",
+"is_active": true
+},
+{
+"id": "100034",
+"name": "ПРОМО",
+"parent_id": "",
+"is_last": false,
+"image": "",
+"is_active": true
+},
+{
+"id": "30366",
+"name": "Разное",
+"parent_id": "",
+"is_last": true,
+"image": "",
+"is_active": true
+}
+]
