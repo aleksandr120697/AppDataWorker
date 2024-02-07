@@ -21,23 +21,18 @@ namespace AppDataWorker.Models
         public string? name { get; set; }
         public string? address { get; set; }
         public string? phone { get; set; }
-        //[NotMapped,JsonPropertyName("longitude")]
-        //public object? longitude_json { get; set; }
         [JsonConverter(typeof(DoubleConverter))]
         public double? longitude { get; set; }
-        //[NotMapped,JsonPropertyName("latitude")]
-        //public object? latitude_json { get; set; }
         [JsonConverter(typeof(DoubleConverter))]
         public double? latitude { get; set; }
         public string? schedule { get; set; }
         public string? metro { get; set; }
         public bool hub { get; set; }
         public string? region { get; set; }
-        [NotMapped]
-        [JsonPropertyName("operating_mode")]
+        [NotMapped, JsonPropertyName("operating_mode")]
         public Dictionary<string, string>[]? operating_modeJson { get; set; }
         [JsonIgnore]
-        public List<Operating_mode>? operating_mode { get; set; } = new();
+        public List<Operating_mode>? operating_mode { get; set; }
 
     }
     public class Operating_mode
@@ -45,6 +40,8 @@ namespace AppDataWorker.Models
         public int Id { get; set; }
         public string? Day { get; set; }
         public string? Time { get; set; }
+        public long AptekaId { get; set; }
+        public Apteka Apteka { get; set; }
     }
     public class DoubleConverter : JsonConverter<double?>
     {
